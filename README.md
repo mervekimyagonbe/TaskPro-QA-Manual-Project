@@ -15,3 +15,13 @@ All modules and functions of the TaskPro application, as specified in the techni
 ## 📄 Test Documentation
 All manual testing documentation and reports are available in PDF format in this repository.  
 Google Sheets links and detailed test results can be found in the test report.
+
+## Files
+
+- *Check-List TaskPro.pdf* → Contains the plans and statuses of manually executed tests.  
+- *TaskPro -testcases-testrail.pdf* → Outputs related to test cases managed and executed in TestRail.  
+- *Bug reports-TaskPro.pdf* → Documents all bugs found during the project and tracked via JIRA.  
+- *Testrun-TestRail.pdf* → Outputs related to test runs executed in TestRail.  
+- *Postman API test reports-TaskPro.pdf* → Reports API tests executed in Postman.  
+- *Test report.pdf* → A comprehensive summary combining all test types and overall project status.  
+- *README.md* → This file.
