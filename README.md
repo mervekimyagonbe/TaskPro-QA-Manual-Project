@@ -1,17 +1,17 @@
-# TaskPro Manuel Test Projesi
+# TaskPro Manual Testing Project
 
-Bu repo, kullanıcıların görevlerini kolayca planlayıp takip edebileceği TaskPro uygulaması üzerinde yürütülen manuel test çalışmalarını içermektedir.
+This repository contains the manual testing activities conducted on the TaskPro application, which allows users to easily plan and track their tasks.
 
-## 📋 Proje Hakkında
-TaskPro uygulamasının teknik şartname ve Swagger dokümanında belirtilen tüm modül ve fonksiyonları kapsamlı bir manuel test sürecinden geçirilmiştir.
+## 📋 About the Project
+All modules and functions of the TaskPro application, as specified in the technical specifications and Swagger documentation, have undergone a comprehensive manual testing process.
 
-## 🧪 Test Süreci
-- Teknik şartname ve Swagger dokümanı detaylı incelenerek kapsamlı bir kontrol listesi oluşturulmuştur.  
-- TestRail platformunda test caseler tasarlanmış ve dokümante edilmiştir.  
-- Postman ile gerçekleştirilen API testleri Google Sheets üzerinde konsolide edilmiştir.  
-- Tespit edilen hatalar Jira’ya kaydedilmiş ve hata analizleri Google Sheets üzerinde raporlanmıştır.  
-- Google dokümanları üzerinde yürütülen test çalışmalarını ve genel durumu özetleyen bir test raporu hazırlanmıştır.  
+## 🧪 Testing Process
+- A detailed checklist was created after thoroughly reviewing the technical specifications and Swagger documentation.  
+- Test cases were designed and documented on the TestRail platform.  
+- API tests performed with Postman were consolidated in Google Sheets.  
+- Identified bugs were recorded in Jira, and their analyses were reported in Google Sheets.  
+- A test report summarizing the executed testing activities and overall status was prepared in Google Docs.
 
-## 📄 Test Dokümantasyonu
-Tüm manuel test çalışmalarına ait dokümantasyon ve raporlar PDF formatında repoda yer almaktadır.  
-Google Sheets bağlantıları ve detaylı test sonuçları test raporunda bulunmaktadır.
+## 📄 Test Documentation
+All manual testing documentation and reports are available in PDF format in this repository.  
+Google Sheets links and detailed test results can be found in the test report.
